@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ab_71\source\repos\challenge_v1(glouton)\challenge_v1(glouton)\source.cpp(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\ab_71\source\repos\challenge_v1(glouton)\challenge_v1(glouton)\source.cpp(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\ab_71\source\repos\challenge_v1(glouton)\challenge_v1(glouton)\source.cpp(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\ab_71\source\repos\challenge_v1(glouton)\challenge_v1(glouton)\source.cpp(34): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  Challenge_V1(Glouton).vcxproj -> C:\Users\AB_71\source\repos\Challenge_V1(Glouton)\Debug\Challenge_V1(Glouton).exe
